@@ -1,6 +1,6 @@
 {
   "name": "@react-element/delay-load",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "react suspend delay load",
   "author": "jf3096",
   "license": "MIT",
