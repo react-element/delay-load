@@ -1,0 +1,8 @@
+{
+  "short_name": "@react-element/delay-load",
+  "name": "@react-element/delay-load",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
